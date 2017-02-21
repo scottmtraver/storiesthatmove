@@ -4,3 +4,25 @@
     width: 50%;
     line-height: 3em;
 }
+
+.map-widget {
+  float: left;
+  position: fixed;
+  z-index: 10;
+  width: 500px;
+}
+
+.base-path {
+  fill: none;
+  stroke: #ccc;
+  stroke-dasharray: 2,2;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+
+.move-path {
+  stroke: #f93;
+  stroke-opacity: .6;
+  stroke-width: 3px;
+  fill: none;
+}
