@@ -1,7 +1,6 @@
 # storiesthatmove
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a webapp used as the core for a blogging platform based around geographical stories.
 
 ## Prerequisites
 
